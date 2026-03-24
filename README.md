@@ -20,7 +20,7 @@
 
 Soy **Ingeniero en Informática** (Duoc UC) con especialidad en Ciencia de Datos, y actualmente curso **Ingeniería Civil Informática** (UNAB).
 
-Me enfoco en la intersección entre la ingeniería rigurosa y el desarrollo de software moderno. Disfruto construyendo modelos de bases de datos impecables que respaldan interfaces rápidas y escalables — y me responsabilizo del ciclo completo, desde la arquitectura hasta el servidor en producción.
+Me enfoco en la intersección entre la ingeniería rigurosa y el desarrollo de software moderno. Disfruto construyendo modelos de bases de datos impecables que respaldan interfaces rápidas y escalables, además me responsabilizo del ciclo completo, desde la arquitectura hasta el servidor en producción.
 
 Fundé **NMS Tech Group** en 2025: una empresa de software desde Santiago donde creamos y operamos nuestros propios productos además de construir soluciones para clientes.
 
