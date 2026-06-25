@@ -22,25 +22,35 @@ Soy **Ingeniero en Informática** (Duoc UC) con especialidad en Ciencia de Datos
 
 Me enfoco en la intersección entre la ingeniería rigurosa y el desarrollo de software moderno. Disfruto construyendo modelos de bases de datos impecables que respaldan interfaces rápidas y escalables, además me responsabilizo del ciclo completo, desde la arquitectura hasta el servidor en producción.
 
-Fundé **NMS Tech Group** en 2025: una empresa de software desde Santiago donde creamos y operamos nuestros propios productos además de construir soluciones para clientes.
+Fundé **NMS Engineering & Consulting (NMS Tech Group)** en 2025: una empresa de software y consultoría en Santiago donde construimos productos propios y soluciones corporativas operando bajo un servidor físico y arquitecturas a medida.
 
 - 🏢 Founder @ [NMS Tech Group](https://nmsdev.tech) · Santiago, Chile
+- 👥 Liderando un equipo multidisciplinario de ingenieros informáticos, comerciales, de redes, diseñadores, expertos en MKT, audiovisuales y consultores SAP.
 - 🔭 Trabajando en sistemas fullstack con **Next.js 15**, **NestJS** y **SQL Server**
-- 🌱 Profundizando en arquitecturas cloud, DevOps y automatización
-- 💬 Pregúntame sobre diseño relacional de bases de datos y sistemas en producción
+- 🌱 Profundizando en infraestructura on-premise, Docker y Cloudflare Zero Trust
+- 💬 Pregúntame sobre diseño relacional de bases de datos y despliegues en producción
 
 ---
 
-### 🏢 NMS Tech Group
+### 🏢 NMS Tech Group & Proyectos
 
-> Empresa de software fundada en Santiago, Chile. Construimos productos propios y soluciones a medida — del modelo de datos al servidor en producción.
+> Desarrollamos de principio a fin — desde el modelo de datos inicial hasta el despliegue final en nuestra propia infraestructura on-premise de alto rendimiento.
 
-| Producto | Stack | Estado |
+| Producto / Plataforma | Descripción | Enlace |
 |---|---|---|
-| [**Speedrun Delivery**](https://speedrun.nmsdev.tech) | React · NestJS · WebSockets · Docker | 🟢 En producción |
-| [**Finance Pro**](https://finance.nmsdev.tech) | Next.js 15 · NestJS · Prisma · Docker | 🟢 En producción |
-| **PortalTI** | React 18 · ASP.NET Core 8 · SQL Server | 🟢 En producción |
-| **CeliApp** | Flutter · Dart · Supabase | 🟢 En producción |
+| **MiCarteraPro** | CRM integral automotriz | [micarterapro.cl](https://micarterapro.cl) |
+| **Vellum.cl** | Plataforma de sistemas | [vellum.cl](https://vellum.cl) |
+| **mylanding.cl** | Creador visual de Landing Pages | [mylanding.cl](https://mylanding.cl) |
+| **M2 Platform** | Plataforma para gestión Inmobiliaria | [m2.nmsdev.tech](https://m2.nmsdev.tech) |
+| **PortalTI** | Gestión TI (React 18, ASP.NET Core) | Interno |
+| **Finance Pro** | Sistema financiero fullstack | [finance.nmsdev.tech](https://finance.nmsdev.tech) |
+| **Smile Dental** | Solución web para clínica odontológica | [dental.nmsdev.tech](https://dental.nmsdev.tech) |
+| **Speedrun Delivery**| App de logística en tiempo real | [speedrun.nmsdev.tech](https://speedrun.nmsdev.tech) |
+
+---
+
+### 🖥️ Infraestructura Subyacente (NMS Home Server)
+Dejamos de depender exclusivamente de nubes de terceros para proyectos estándar. Todo el ecosistema de NMS Tech Group y los entornos corporativos en producción están auto-alojados en nuestro propio servidor físico gestionado eficientemente con **Linux, Docker nativo, Nginx Proxy Manager y túneles de Cloudflare Zero Trust**.
 
 ---
 
