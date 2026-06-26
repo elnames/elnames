@@ -39,7 +39,7 @@ Fundé **NMS Engineering & Consulting (NMS Tech Group)** en 2025: una empresa de
 | Producto / Plataforma | Descripción | Enlace |
 |---|---|---|
 | **MiCarteraPro** | CRM integral automotriz | [micarterapro.cl](https://micarterapro.cl) |
-| **Vellum.cl** | Plataforma de sistemas | [vellum.cl](https://vellum.cl) |
+| **Vellum.cl** | Plataforma Ecommerce en Jumpseller | [vellum.cl](https://vellum.cl) |
 | **mylanding.cl** | Creador visual de Landing Pages | [mylanding.cl](https://mylanding.cl) |
 | **M2 Platform** | Plataforma para gestión Inmobiliaria | [m2.nmsdev.tech](https://m2.nmsdev.tech) |
 | **PortalTI** | Gestión TI (React 18, ASP.NET Core) | Interno |
