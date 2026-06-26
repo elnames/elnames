@@ -44,7 +44,7 @@ Fundé **NMS Engineering & Consulting (NMS Tech Group)** en 2025: una empresa de
 | **M2 Platform** | Plataforma para gestión Inmobiliaria | [m2.nmsdev.tech](https://m2.nmsdev.tech) |
 | **PortalTI** | Gestión TI (React 18, ASP.NET Core) | Interno |
 | **Finance Pro** | Sistema financiero fullstack | [finance.nmsdev.tech](https://finance.nmsdev.tech) |
-| **Smile Dental** | Solución web para clínica odontológica | [dental.nmsdev.tech](https://dental.nmsdev.tech) |
+| **Dental** | Solución web para clínica odontológica | [dental.nmsdev.tech](https://dental.nmsdev.tech) |
 | **Speedrun Delivery**| App de logística en tiempo real | [speedrun.nmsdev.tech](https://speedrun.nmsdev.tech) |
 
 ---
